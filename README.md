@@ -1,82 +1,106 @@
-# Sales-Management-Application-
-A C# Windows Forms desktop application for managing sales, products, and clients. Includes data persistence, reporting, and a clean user interface. Built as part of the Windows Applications Programming (PAW) course.
-Features
-🛒 Product Management
-Add, edit, delete, and search products
+# 🧾 Sales Management Application
 
-Each product includes: ID, Name, Price, Quantity, and Category
+**A C# Windows Forms desktop application for managing sales, clients, and products.**  
+Built as part of the *Windows Applications Programming (PAW)* course – CSIE, ASE Bucharest.
 
-👥 Client Management
-Add, view, and update client information
+---
 
-Search clients by name
+## 📌 Overview
 
-💼 Sales Transactions
-Record sales between clients and products
+This application allows small businesses or educational users to efficiently manage:
+- Product inventory
+- Client data
+- Sales transactions
 
-Automatic update of stock levels after each transaction
+It includes features like stock updates, data persistence, chart-based reporting, and printing capabilities – all wrapped in a modern, tab-based user interface.
 
-Transaction history with timestamps and total value
+---
 
-💾 Data Persistence
-Save/load data in CSV and XML formats
+## ⚙️ Features
 
-Object serialization and deserialization
+### 🛒 Product Management
+- Add / Edit / Delete products
+- View details: ID, Name, Category, Quantity, Price
+- Search products by name
 
-Optional integration with SQL Server LocalDB
+### 👥 Client Management
+- Add and manage clients
+- Fields include: Name, Email, Phone
+- Search by client name
 
-🧑‍💻 User Interface
-Tabbed interface: Products, Clients, Transactions, Charts
+### 💼 Transactions
+- Record sales operations
+- Automatic product stock adjustment
+- Transaction history with timestamps and values
 
-Main and context menus for fast access
+### 📈 Reports & Visualization
+- Bar chart showing best-selling products
+- Printable stock and transaction summary reports
 
-User Controls for reusable UI components
+### 💾 Data Persistence
+- Save and load data in **CSV** or **XML** format
+- Binary serialization support
+- Optional SQL Server LocalDB integration (via ADO.NET)
 
-Data validation at both model and UI level
+### 🧑‍💻 User Interface
+- Tabbed layout for easy navigation
+- Context menus and main menu with shortcuts
+- Custom User Controls for reusability
+- Input validation (UI and model level)
+- Drag & Drop support
 
-📊 Reporting & Visualization
-Bar chart with most sold products
+---
 
-Print summary reports for inventory and sales
+## 🛠️ Technologies Used
 
-Technologies Used
-Language: C#
+| Component       | Details                    |
+|----------------|----------------------------|
+| Language        | C#                         |
+| Framework       | .NET Framework 4.8         |
+| UI Framework    | Windows Forms (WinForms)   |
+| Data Access     | ADO.NET                    |
+| File Formats    | CSV, XML, Binary           |
+| Database (Opt.) | SQL Server LocalDB         |
 
-Framework: .NET Framework 4.8
+---
 
-UI: Windows Forms (WinForms)
+## 🚀 Getting Started
 
-Database (optional): SQL Server LocalDB
+### ✅ Requirements
+- Visual Studio (with .NET Framework 4.8)
+- (Optional) SQL Server LocalDB installed
 
-Data Access: ADO.NET
+### ▶️ Running the App
+1. Clone this repository
+2. Open the `.sln` file in Visual Studio
+3. Build the project (`Ctrl + Shift + B`)
+4. Run the application (`F5`)
 
-Persistence: CSV, XML, Serialization
+---
 
-Getting Started
-Prerequisites
-Visual Studio with .NET Framework 4.8
+## 📚 Usage
 
-(Optional) SQL Server LocalDB
+- Use **Products tab** to manage inventory
+- Use **Clients tab** to manage customer data
+- Use **Transactions tab** to record and view sales
+- Use **Charts tab** to analyze product sales
+- Use **File menu** to export/import or print data
 
-How to Run
-Clone the repository
+---
 
-Open the .sln file in Visual Studio
+## 📌 Educational Purpose
 
-Build the project
+This project was developed in 2025 as part of the  
+📘 *Windows Applications Programming (PAW)* course  
+🎓 Faculty of Cybernetics, Statistics and Economic Informatics – ASE Bucharest
 
-Run the application
+---
 
-Usage Guide
-Manage products in the Products tab
+## 📷 Screenshots
 
-Add or update clients in the Clients tab
+*(Add interface images here if available)*
 
-Register and track sales in the Transactions tab
+---
 
-View data charts in the Charts tab
+## 📁 Folder Structure (Optional)
 
-Use the File menu to save/load data or print reports
-
-Educational Purpose
-This application was developed as a student project for the Windows Applications Programming course at the Faculty of Cybernetics, Statistics and Economic Informatics (CSIE), ASE Bucharest.
