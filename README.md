@@ -96,11 +96,5 @@ This project was developed in 2025 as part of the
 
 ---
 
-## 📷 Screenshots
 
-*(Add interface images here if available)*
-
----
-
-## 📁 Folder Structure (Optional)
 
