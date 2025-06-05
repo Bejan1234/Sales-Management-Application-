@@ -1,0 +1,13 @@
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.AssemblyReference.cache
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormDetaliiProdus.resources
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormProduse.resources
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormClienti.resources
+C:\Users\ionut\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormDetaliiClient.resources
